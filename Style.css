@@ -1,0 +1,29 @@
+body {
+background-color: silver;
+}
+.header{
+  text-align: center;
+}
+.center{
+width: 45%;
+border: 1px green solid;
+padding: 10px 10px 10px 10px;
+margin: 0 auto;
+text-align: center;
+}
+.text{
+color: white;
+
+}
+#word{
+
+color: blue;
+}
+.mid{
+  border: 1px red solid;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 30px;
+
+}
